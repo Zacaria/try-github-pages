@@ -1,0 +1,19 @@
+{
+  "name": "try-github-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "borwser-sync start --server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zacaria/try-github-pages.git"
+  },
+  "author": "Zacaria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zacaria/try-github-pages/issues"
+  },
+  "homepage": "https://github.com/Zacaria/try-github-pages#readme"
+}
